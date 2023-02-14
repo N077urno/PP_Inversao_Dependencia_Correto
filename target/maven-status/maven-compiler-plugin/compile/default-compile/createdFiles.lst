@@ -1,0 +1,4 @@
+com\mycompany\pp_inversao_de_dependencia_correto\PP_Inversao_de_Dependencia_Correto.class
+com\mycompany\pp_inversao_de_dependencia_correto\DataBase.class
+com\mycompany\pp_inversao_de_dependencia_correto\MySqlDataBase.class
+com\mycompany\pp_inversao_de_dependencia_correto\Order.class
